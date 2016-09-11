@@ -31,8 +31,6 @@ import javax.crypto.Cipher;
 
 /**
  * 
- * @author Anuj
- * Blog www.goldenpackagebyanuj.blogspot.com
  * RSA - Encrypt Data using Public Key
  * RSA - Descypt Data using Private Key
  */
